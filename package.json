@@ -1,0 +1,35 @@
+{
+  "name": "keyloop-inventory-dashboard",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "mock": "json-server --watch mock-server/db.json --port 4000",
+    "start": "concurrently -n mock,app -c yellow,blue \"npm run mock\" \"npm run dev\"",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "cross-env NODE_ENV=test vitest run",
+    "test:watch": "cross-env NODE_ENV=test vitest",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.5.0",
+    "@testing-library/react": "^16.0.1",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.2",
+    "concurrently": "^9.0.1",
+    "cross-env": "^10.1.0",
+    "jsdom": "^25.0.1",
+    "json-server": "^0.17.4",
+    "typescript": "^5.6.3",
+    "vite": "^7.3.7",
+    "vitest": "^4.1.11"
+  }
+}

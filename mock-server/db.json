@@ -1,0 +1,250 @@
+{
+  "vehicles": [
+    {
+      "id": "1",
+      "vin": "1HGCM82633A004352",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2024,
+      "price": 27800,
+      "dateReceived": "2026-09-28T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/(USA-Massachusetts)%20Private%20Toyota%20Camry%20NJ-Z22UKZ%20rear%202024-06-06.jpg?width=640"
+    },
+    {
+      "id": "2",
+      "vin": "2T1BURHE0JC014585",
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2023,
+      "price": 22500,
+      "dateReceived": "2026-09-15T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2023%20Toyota%20Corolla%20Touring%20Sports%20Hybrid%20(E210)%20IMG%207679.jpg?width=640"
+    },
+    {
+      "id": "3",
+      "vin": "1FTEW1EP7JFA12345",
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2023,
+      "price": 38900,
+      "dateReceived": "2026-08-20T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ford%20F-150%20(fourteenth%20generation)%20Rutesheimer%20Autoschau%202025%20DSC%209231.jpg?width=640"
+    },
+    {
+      "id": "4",
+      "vin": "JHMFA16586S003421",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2022,
+      "price": 19800,
+      "dateReceived": "2026-08-05T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Honda%20Civic%20Hybrid%20(2022,%20Europe)%20IAA%202023%201X7A0545%20(2).jpg?width=640"
+    },
+    {
+      "id": "5",
+      "vin": "5YJ3E1EA9JF012987",
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2023,
+      "price": 41200,
+      "dateReceived": "2026-09-05T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tesla%20Model%203%20(2023)%20IMG%209488%20(cropped).jpg?width=640"
+    },
+    {
+      "id": "6",
+      "vin": "WBA3B1C50FP123456",
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2022,
+      "price": 34900,
+      "dateReceived": "2026-07-20T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/BMW%203%20SERIES%20LWB%20SEDAN%20(G28)%20China%20(6).jpg?width=640"
+    },
+    {
+      "id": "7",
+      "vin": "3VWFE21C04M123789",
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": 2023,
+      "price": 21300,
+      "dateReceived": "2026-09-01T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Volkswagen%20Jetta%20VII%20GLI%20IMG%203138.jpg?width=640"
+    },
+    {
+      "id": "8",
+      "vin": "KNDJT2A20B7123654",
+      "make": "Kia",
+      "model": "Soul",
+      "year": 2021,
+      "price": 16700,
+      "dateReceived": "2026-08-15T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/KIA%20SOUL%20China.jpg?width=640"
+    },
+    {
+      "id": "9",
+      "vin": "1N4AL3AP8JC098765",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2024,
+      "price": 25400,
+      "dateReceived": "2026-09-25T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2024%20Nissan%20Altima%20SR,%20rear%20right,%2005-05-2025.jpg?width=640"
+    },
+    {
+      "id": "10",
+      "vin": "1G1ZD5ST8JF123321",
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2022,
+      "price": 20100,
+      "dateReceived": "2026-09-12T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2019%20Chevrolet%20Malibu%20(facelift)%20LT,%20front%2010.19.19.jpg?width=640"
+    },
+    {
+      "id": "11",
+      "vin": "JM1BL1S52C1123987",
+      "make": "Mazda",
+      "model": "3",
+      "year": 2023,
+      "price": 23600,
+      "dateReceived": "2026-08-01T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mazda3%20(BN)%201X7A7262.jpg?width=640"
+    },
+    {
+      "id": "12",
+      "vin": "WAUFFAFL8CN012345",
+      "make": "Audi",
+      "model": "A4",
+      "year": 2021,
+      "price": 29900,
+      "dateReceived": "2025-12-01T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2020%20Audi%20A4%20(Michigan%20Manufacturer%20plate),%20front%209.3.19.jpg?width=640"
+    },
+    {
+      "id": "13",
+      "vin": "KMHL14JA5PA123456",
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": 2023,
+      "price": 21500,
+      "dateReceived": "2026-09-20T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hyundai%20Elantra%20(AD)%20Motorworld%20Munich%201X7A0053.jpg?width=640"
+    },
+    {
+      "id": "14",
+      "vin": "4S4BTANC5N3123789",
+      "make": "Subaru",
+      "model": "Outback",
+      "year": 2022,
+      "price": 29800,
+      "dateReceived": "2026-07-28T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SUBARU%20LEGACY%20OUTBACK,SUBARU%20OUTBACK%20(BS)%20China.jpg?width=640"
+    },
+    {
+      "id": "15",
+      "vin": "1C4RJFBG5PC123654",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": 2023,
+      "price": 42500,
+      "dateReceived": "2026-08-25T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeep%20Grand%20Cherokee%20(WL)%20IMG%207791.jpg?width=640"
+    },
+    {
+      "id": "16",
+      "vin": "1C6SRFJT3NN123987",
+      "make": "Ram",
+      "model": "1500",
+      "year": 2022,
+      "price": 45800,
+      "dateReceived": "2026-02-10T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2022%20Ram%201500%20Limited%20Crew%20Cab%204x4,%20front%20left,%2005-09-2023.jpg?width=640"
+    },
+    {
+      "id": "17",
+      "vin": "3GTU9DED5PG123321",
+      "make": "GMC",
+      "model": "Sierra",
+      "year": 2023,
+      "price": 48900,
+      "dateReceived": "2026-09-10T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2023%20GMC%20Sierra%20front%20view.jpg?width=640"
+    },
+    {
+      "id": "18",
+      "vin": "2T2HZMAA5NC123147",
+      "make": "Lexus",
+      "model": "RX",
+      "year": 2022,
+      "price": 52300,
+      "dateReceived": "2026-01-05T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lexus%20RX%20(AL10,%202022)%201X7A7245.jpg?width=640"
+    },
+    {
+      "id": "19",
+      "vin": "2C3CDXBG5MH123852",
+      "make": "Dodge",
+      "model": "Charger",
+      "year": 2021,
+      "price": 27600,
+      "dateReceived": "2026-08-28T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2021%20Dodge%20Charger%20in%20Triple%20Nickel%201of2.jpg?width=640"
+    },
+    {
+      "id": "20",
+      "vin": "7FARW2H56PE123963",
+      "make": "Honda",
+      "model": "CR-V",
+      "year": 2023,
+      "price": 31200,
+      "dateReceived": "2026-09-18T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2023%20Honda%20CR-V%20EX-L%20AWD,%20front%20right,%2011-13-2022.jpg?width=640"
+    },
+    {
+      "id": "21",
+      "vin": "2T3H1RFV5PW123741",
+      "make": "Toyota",
+      "model": "RAV4",
+      "year": 2023,
+      "price": 33400,
+      "dateReceived": "2026-08-10T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Toyota%20RAV4%20(XA50)%20Hybrid%20(5).jpg?width=640"
+    },
+    {
+      "id": "22",
+      "vin": "1FA6P8TH5N5123258",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2022,
+      "price": 39900,
+      "dateReceived": "2026-03-01T00:00:00.000Z",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ford%20Mustang%20GT%20Coup%C3%A9%20(2022)%20(53465078210).jpg?width=640"
+    }
+  ],
+  "actions": [
+    {
+      "id": "a1",
+      "vehicleId": "4",
+      "note": "Price reduction planned \u2014 $1,200 off",
+      "createdAt": "2026-09-20T14:30:00.000Z"
+    },
+    {
+      "id": "a2",
+      "vehicleId": "4",
+      "note": "Featured in weekend newsletter",
+      "createdAt": "2026-09-10T09:15:00.000Z"
+    },
+    {
+      "id": "a3",
+      "vehicleId": "8",
+      "note": "Scheduled detail + new photos",
+      "createdAt": "2026-08-01T11:00:00.000Z"
+    },
+    {
+      "id": "a4",
+      "vehicleId": "12",
+      "note": "Wholesale offer under review",
+      "createdAt": "2026-09-30T16:45:00.000Z"
+    }
+  ]
+}
